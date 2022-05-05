@@ -8,5 +8,8 @@ Lo primero que tenemos que hacer es abrir nuestro parallels como es logico y act
 >(esta instalación solo es para debian con el entorno gnome)
 
 
-Una vez iniciada nuestra maquina virtual con debian tenemos que dirigirnos a la parte superior del menu y a la izquierda del todo encontraremos ciertas funciones de la aplicacion de parallels en nuestro caso tendremos que hacer doble clic en la señal de advertencia
+Una vez iniciada nuestra maquina virtual con debian tenemos que dirigirnos a la parte superior del menu y a la izquierda del todo encontraremos ciertas funciones de la aplicacion de parallels en nuestro caso tendremos que hacer doble clic en la señal de advertencia que como dije aparece en la parte superior
+
+
+
 
